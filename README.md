@@ -1,2 +1,0 @@
-# sandbox
-This is a repository to try dangerous things.
